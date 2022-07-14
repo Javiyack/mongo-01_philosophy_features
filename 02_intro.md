@@ -108,6 +108,7 @@ db.<nombre-colección>.metodo(args).metodo(args)
 ```
 
 db.pacientes.insert({nombre: 'Lucía', apellidos: 'Pérez Gómez'})
+
 db.pacientes.find()
 
 ## Esquema flexible en MongoDB (esquema dinámico o schemmaless)
